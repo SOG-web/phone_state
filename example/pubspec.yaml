@@ -26,6 +26,13 @@ dependencies:
     # the parent directory to use the current plugin's version.
     path: ../
   permission_handler: ^10.4.1
+  flutter_background: ^1.2.0
+  flutter_background_service: ^3.0.1
+  flutter_local_notifications: ^15.1.0+1
+  shared_preferences: ^2.2.0
+  device_info_plus: ^9.0.2
+  flutter_background_service_android: ^4.0.1
+  # awesome_notifications: ^0.7.4+1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
